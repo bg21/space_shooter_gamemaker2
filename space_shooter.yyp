@@ -2,6 +2,7 @@
   "resources": [
     {"id":{"name":"spr_tiro1","path":"sprites/spr_tiro1/spr_tiro1.yy",},"order":1,},
     {"id":{"name":"obj_tiro2","path":"objects/obj_tiro2/obj_tiro2.yy",},"order":3,},
+    {"id":{"name":"spr_tiro_bonito_inimigo","path":"sprites/spr_tiro_bonito_inimigo/spr_tiro_bonito_inimigo.yy",},"order":10,},
     {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},"order":4,},
     {"id":{"name":"spr_colisao","path":"sprites/spr_colisao/spr_colisao.yy",},"order":5,},
     {"id":{"name":"spr_background_extra3","path":"sprites/spr_background_extra3/spr_background_extra3.yy",},"order":8,},
