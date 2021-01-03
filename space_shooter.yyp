@@ -11,6 +11,7 @@
     {"id":{"name":"obj_colisao","path":"objects/obj_colisao/obj_colisao.yy",},"order":4,},
     {"id":{"name":"obj_enemy_polvo","path":"objects/obj_enemy_polvo/obj_enemy_polvo.yy",},"order":2,},
     {"id":{"name":"obj_tiro1","path":"objects/obj_tiro1/obj_tiro1.yy",},"order":1,},
+    {"id":{"name":"spr_tiro_bonito","path":"sprites/spr_tiro_bonito/spr_tiro_bonito.yy",},"order":9,},
     {"id":{"name":"spr_enemy_polvo","path":"sprites/spr_enemy_polvo/spr_enemy_polvo.yy",},"order":2,},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":0,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
