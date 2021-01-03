@@ -4,4 +4,5 @@
 instance_destroy();
 global.inimigosMortos++;
 
+
 instance_destroy(other);
