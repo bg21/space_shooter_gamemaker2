@@ -1,7 +1,4 @@
 /// @description Insert description here
 // You can write your code in this editor
-
-instance_destroy();
-global.inimigosMortos++;
-
-instance_destroy(other);
+alarm[0] = room_speed;
+global.inimigosMortos = 0;
