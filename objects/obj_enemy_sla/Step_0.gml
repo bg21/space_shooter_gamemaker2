@@ -4,8 +4,15 @@
 // Inherit the parent event
 event_inherited();
 
-if(x <= 812){
-	show_debug_message("esquerda");
-}else{
-	show_debug_message("direita");
+if(y > room_height / 3 && posso_me_mover){
+	if(x < room_width / 2){
+	
+		show_debug_message("esquerda");
+		hspeed = 3;
+		posso_me_mover = false;
+	}else{
+		show_debug_message("direita");
+		hspeed = -3;
+		posso_me_mover = false;
+	}
 }
