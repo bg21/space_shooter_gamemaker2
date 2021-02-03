@@ -4,5 +4,5 @@
 instance_destroy();
 global.inimigosMortos++;
 
-
+audio_play_sound(MorteInimigo, 2, false);
 instance_destroy(other);

@@ -4,3 +4,4 @@ alarm[0] = room_speed;
 global.inimigosMortos = 0;
 global.minhaVida = 3;
 global.recorde = 0;
+audio_play_sound(Fundo, 1, false);
