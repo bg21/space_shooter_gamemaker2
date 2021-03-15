@@ -6,3 +6,8 @@ if(global.minhaVida == 0){
 	room_restart();	
 	audio_play_sound(MortePlayer, 2, false);
 }
+
+if(global.inimigosMortos >= proximo_level){
+	global.level++;
+	proximo_level = proximo_level * 2;
+}

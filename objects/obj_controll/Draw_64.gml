@@ -12,6 +12,10 @@ draw_text(12, 50, textoVidas);
 var textoRecorde = "Recorde: "+string(round(global.recorde));
 draw_text(12, 90, textoRecorde);
 
+var mostrarLevel = "Level "+string(global.level);
+draw_text(1500, 12, mostrarLevel);
+
 draw_set_color(c_white);
 draw_set_font(-1);
+
 
